@@ -220,66 +220,66 @@
                             <!-- Color System -->
                             <div class="row">
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-primary text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #6366f1;">
                                         <div class="card-body">
-                                            Primary
-                                            <div class="text-white-50 small">#4e73df</div>
+                                            Indigo
+                                            <div class="text-white-50 small">#6366f1</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-success text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #10b981;">
                                         <div class="card-body">
-                                            Success
-                                            <div class="text-white-50 small">#1cc88a</div>
+                                            Emerald
+                                            <div class="text-white-50 small">#10b981</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-info text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #06b6d4;">
                                         <div class="card-body">
-                                            Info
-                                            <div class="text-white-50 small">#36b9cc</div>
+                                            Cyan
+                                            <div class="text-white-50 small">#06b6d4</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-warning text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #f59e0b;">
                                         <div class="card-body">
-                                            Warning
-                                            <div class="text-white-50 small">#f6c23e</div>
+                                            Amber
+                                            <div class="text-white-50 small">#f59e0b</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-danger text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #ef4444;">
                                         <div class="card-body">
-                                            Danger
-                                            <div class="text-white-50 small">#e74a3b</div>
+                                            Red
+                                            <div class="text-white-50 small">#ef4444</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-secondary text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #8b5cf6;">
                                         <div class="card-body">
-                                            Secondary
-                                            <div class="text-white-50 small">#858796</div>
+                                            Violet
+                                            <div class="text-white-50 small">#8b5cf6</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-light text-black shadow">
+                                    <div class="card text-black shadow" style="background-color: #f3f4f6;">
                                         <div class="card-body">
-                                            Light
-                                            <div class="text-black-50 small">#f8f9fc</div>
+                                            Gray
+                                            <div class="text-black-50 small">#f3f4f6</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-dark text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #1f2937;">
                                         <div class="card-body">
-                                            Dark
-                                            <div class="text-white-50 small">#5a5c69</div>
+                                            Charcoal
+                                            <div class="text-white-50 small">#1f2937</div>
                                         </div>
                                     </div>
                                 </div>
